@@ -70,11 +70,3 @@ The code includes preprocessing steps such as:
 ## Contributing
 
 Feel free to submit issues and enhancement requests!
-
-## License
-
-[Add your chosen license here]
-
-## Contact
-
-[Add your contact information here] 
